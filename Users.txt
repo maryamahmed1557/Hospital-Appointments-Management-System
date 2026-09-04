@@ -1,0 +1,8 @@
+F001,Ahmed,admin,Ahmed123,pas36#
+Doct345,Mona,Doctor,mona123,pass123
+A001,Admin1,Admin,admin,adminpass
+D0034,Aras,Doctor,ar123,1#4567
+D001,Dr,Doctor,Mona,mona123
+D0012,salma,Doctor,gg5,78
+D007,fady,Doctor,fady,123
+P009,ahmed,Patient,ahmed,123
